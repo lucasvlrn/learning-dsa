@@ -27,4 +27,4 @@ function maximumLengthSubstring(s) {
 
 console.log(maximumLengthSubstring(["b", "c", "b", "b", "b", "c", "b", "a"]));
 
-// nao entendi como pegar os values dos keys, js é paia
+
